@@ -1,9 +1,6 @@
 # blender-farm
 
-## render cluster node
-
-- ubuntu 22.04.3 (jammy)
-- 
+## render cluster node setup
 
 ### machine setup
 
@@ -29,6 +26,6 @@
 
 - make sure to replace render farm with the actual name of server's binary
 
-### actual rendering
+## actual rendering
 
 - use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
