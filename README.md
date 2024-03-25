@@ -1,5 +1,14 @@
 # blender-farm
 
+## rendering client setup
+
+use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
+
+- download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
+
+add required render nodes under `New Node`:
+
+
 ## render cluster node setup
 
 ### machine setup
@@ -25,11 +34,3 @@
 ```
 
 - make sure to replace `renderfarm` with the actual name of server's binary
-
-## rendering client setup
-
-use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
-
-- download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
-- add required render nodes under `new node`:
-  - example: `blender node`
