@@ -1,5 +1,7 @@
 # blender-farm
 
+built using [LogicReinc's BlendFarm](https://github.com/LogicReinc/LogicReinc.BlendFarm/tree/main)
+
 ## TODO
 
 - test windows client

@@ -1,5 +1,7 @@
 # blender-farm
 
+built using [LogicReinc's BlendFarm](https://github.com/LogicReinc/LogicReinc.BlendFarm/tree/main)
+
 ## rendering client setup
 
 - download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (.exe, or equiv. for your version of OS)
