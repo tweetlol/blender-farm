@@ -15,3 +15,7 @@
 - sync nodes (automatic)
 - **render**
 - explore more features (live preview)
+
+___
+
+- server setup in [/dev](https://github.com/tweetlol/blender-farm/tree/main/dev)
