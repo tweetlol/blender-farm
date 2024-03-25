@@ -20,4 +20,4 @@
 ___
 ___
 
-- server setup in [/dev](https://github.com/tweetlol/blender-farm/tree/main/dev)
+- remote rendering server machine setup in [/dev](https://github.com/tweetlol/blender-farm/tree/main/dev)
