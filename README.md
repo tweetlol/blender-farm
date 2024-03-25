@@ -7,7 +7,7 @@
 - add available render nodes under `New Node`:
 
 <div style ="max-width: 40%;">
-![add rendering nodes](https://github.com/tweetlol/blender-farm/blob/main/images/new-node.jpg?raw=true)
+  ![add rendering nodes](https://github.com/tweetlol/blender-farm/blob/main/images/new-node.jpg?raw=true)
 </div>
 
 ## render cluster node setup
