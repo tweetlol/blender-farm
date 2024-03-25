@@ -5,10 +5,8 @@
 - download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
 - select your .blend file and blender version, load the project
 - add available render nodes under `New Node`:
+![add render nodes here](https://github.com/tweetlol/blender-farm/blob/main/images/add-render-node.jpg?raw=true)
 
-<div style ="max-width: 40%;">
-  ![add rendering nodes](https://github.com/tweetlol/blender-farm/blob/main/images/new-node.jpg?raw=true)
-</div>
 
 ## render cluster node setup
 
