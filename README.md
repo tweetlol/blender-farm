@@ -30,4 +30,6 @@
 
 use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
 
-- run the binary app [downloaded](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
+- download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
+- add required render nodes under `new node`:
+  - example: `blender node`
