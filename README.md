@@ -26,6 +26,8 @@
 
 - make sure to replace `renderfarm` with the actual name of server's binary
 
-## actual rendering
+## rendering client setup
 
-- use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
+use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
+
+- run the binary app [downloaded](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
