@@ -2,12 +2,10 @@
 
 ## rendering client setup
 
-use [GUI](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) for render access
-
 - download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
-
-add required render nodes under `New Node`:
-
+- select your .blend file and blender version, load the project
+- add available render nodes under `New Node`:
+![add rendering nodes](https://github.com/tweetlol/blender-farm/blob/main/images/new-node.jpg?raw=true)
 
 ## render cluster node setup
 
