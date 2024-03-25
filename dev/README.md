@@ -6,7 +6,7 @@ built using [LogicReinc's BlendFarm](https://github.com/LogicReinc/LogicReinc.Bl
 
 - test windows client
 - test different render engines
-- test live preview
+- test live preview / re-render on save
 - check: blender settings: external data nescessity
 - write a real doc
 
