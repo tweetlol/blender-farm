@@ -5,6 +5,7 @@
 - test windows client
 - test different render engines
 - test live preview
+- check: blender settings: external data nescessity
 - write a real doc
 
 ## render cluster node setup

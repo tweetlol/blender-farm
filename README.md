@@ -15,6 +15,7 @@
 - sync nodes (automatic)
 - **render**
 - explore more features (live preview)
+- sorry about the UI
 
 ___
 
