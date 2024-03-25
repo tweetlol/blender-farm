@@ -1,17 +1,24 @@
 # blender-farm
 
+## TODO
+
+- test windows client
+- test different render engines
+- test live preview
+- write a real doc
+
 ## rendering client setup
 
 - download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (.exe, or equiv. for your version of OS)
-- select your .blend file and blender version, load the project (*check:* blender settings: external data?)
+- select your .blend file and blender version, load the project *(check: blender settings: external data nescessity?)*
 - add available render nodes under `New Node`:
-![add render nodes here]()
+![add render nodes here](https://github.com/tweetlol/blender-farm/blob/main/images/add-render-node.jpg?raw=true)
 - remember to use port `:15000` every time when adding a node
 - turn on/off the required nodes
-![render nodes off/on]()
+![render nodes off/on](https://github.com/tweetlol/blender-farm/blob/main/images/render-nodes-on-off.jpg?raw=true)
 - sync nodes (automatic)
-- *render*
-- explore more features (live preview, render engines, )
+- **render**
+- explore more features (live preview)
 
 ## render cluster node setup
 
