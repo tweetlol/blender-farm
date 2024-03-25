@@ -15,7 +15,7 @@
 
 ![add render nodes here](https://github.com/tweetlol/blender-farm/blob/main/images/add-render-node.jpg?raw=true)
 
-- turn the rendering nodes on/off in the table above:
+- turn the rendering nodes on/off:
 
 ![render nodes off/on](https://github.com/tweetlol/blender-farm/blob/main/images/render-nodes-on-off.jpg?raw=true)
 
