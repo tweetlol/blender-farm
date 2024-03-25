@@ -5,8 +5,10 @@
 - download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
 - select your .blend file and blender version, load the project
 - add available render nodes under `New Node`:
-![add render nodes here](https://github.com/tweetlol/blender-farm/blob/main/images/add-render-node.jpg?raw=true)
-
+![add render nodes here]()
+  - remember to use port `:15000` every time when adding a node
+  - sync nodes (automatic)
+- 
 
 ## render cluster node setup
 
