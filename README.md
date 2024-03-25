@@ -2,13 +2,16 @@
 
 ## rendering client setup
 
-- download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (for your version of OS)
-- select your .blend file and blender version, load the project
+- download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (.exe, or equiv. for your version of OS)
+- select your .blend file and blender version, load the project (*check:* blender settings: external data?)
 - add available render nodes under `New Node`:
 ![add render nodes here]()
-  - remember to use port `:15000` every time when adding a node
-  - sync nodes (automatic)
-- 
+- remember to use port `:15000` every time when adding a node
+- turn on/off the required nodes
+![render nodes off/on]()
+- sync nodes (automatic)
+- *render*
+- explore more features (live preview, render engines, )
 
 ## render cluster node setup
 
