@@ -5,6 +5,9 @@ built using [LogicReinc's BlendFarm](https://github.com/LogicReinc/LogicReinc.Bl
 ## rendering client setup
 
 - download and run the [binary app](https://github.com/LogicReinc/LogicReinc.BlendFarm/releases) (.exe, or equiv. for your version of OS)
+
+![welcome gui, load project, blender version](https://github.com/tweetlol/blender-farm/blob/main/dev/images/gui-welcome.jpg?raw=true)
+
 - select your .blend file and blender version, load the project *(check: blender settings: external data nescessity?)*
 - add available render nodes under `New Node` (remember to use port `:15000` every time when adding a node):
 
